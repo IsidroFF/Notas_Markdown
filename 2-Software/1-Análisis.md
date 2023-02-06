@@ -1,4 +1,13 @@
-# 1.1 Revisión de especificación de requisitos.  
+Metodologia de desarrollo: Orientada a objetos
+# 1.1 Revisión de especificación de requisitos.
+1. Descripcion del proyecto
+2. Modelado del componente de negocio del proyecto DIAGRAMA BPMN
+3. Documento ERS
+	1. 
+4. Diagrama de casos de uso
+5. Modelo de interfaces
+
+
 ## 1.1.1 Norma IEEE830  
 ## 1.1.2 Trazabilidad de requisitos  
 # 1.2 Descripción de procesos actuales  

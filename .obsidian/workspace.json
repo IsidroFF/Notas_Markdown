@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f3fa0a4389512aee",
+        "id": "7a727699ad31db7b",
         "type": "tabs",
         "children": [
           {
-            "id": "615b666f0c5f0d51",
+            "id": "721521b97f1fad6d",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4efc3f39e6a1fada",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tareas globales.md"
+              }
             }
           }
         ]
@@ -76,33 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65ae0dc1c229d9d4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "27d1e54fe1981e19",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "c4fa904b0caa50bb",
             "type": "leaf",
             "state": {
@@ -134,14 +121,46 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md"
+              }
+            }
+          },
+          {
+            "id": "857af3b4e096ebc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b00eed4704240680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,17 +176,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "615b666f0c5f0d51",
+  "active": "721521b97f1fad6d",
   "lastOpenFiles": [
-    "2023-01-28.md",
-    "5-Redes/1-Introducción a redes de datos.md",
-    "6-Operativos/1-Introducción a los sistemas operativos.md",
-    "6-Operativos/2-Sistemas Operativos propietarios para servidores.md",
-    "6-Operativos/3-Sistemas Operativos de software libre para servidore.md",
-    "6-Operativos/4-Interoperabilidad entre sistemas operativos.md",
-    "3-Interfaz/1-Introducción al lenguaje ensamblador.md",
-    "3-Interfaz/2-Programación básica.md",
-    "3-Interfaz/3-Modularización.md",
-    "3-Interfaz/4-Programación de dispositivos.md"
+    "Tareas globales.md",
+    "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+    "4-Datos/1-Perspectiva de la administración de base de datos.md",
+    "2-Software/1-Análisis.md",
+    "4-Datos/2-Arquitectura e instalación del SGBD.md",
+    "2-Software/4-Pruebas e Implantación.md",
+    "3-Interfaz/Datos generales.md",
+    "3-Interfaz/Untitled.md",
+    "2-Software/Datos generales.md",
+    "2-Software/3-Desarrollo.md"
   ]
 }
