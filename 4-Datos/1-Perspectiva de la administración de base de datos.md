@@ -1,5 +1,5 @@
 # Indice de actividades del portafolio
-- [Actividad 1](#actividad-1-(1/Feb)) 
+- [Actividad 1](####Actividad-1)
 # 1.1. Administrador de Base de Datos (DBA)
 **Administracion:** Ciencia que estudia las organizaciones a traves de la planeacion, organizacion, direccion y control; de manera constante en la busqueda del mejor desempeño posible.
 
@@ -16,13 +16,13 @@
 --- 
 ### Actividad 1 (1/Feb)
 **¿Qué es para ti un administrador de bases de datos?**
-
 - Es la persona encargada de gestionar y controlar todos los servicios y sistemas que se requieren para las bases de datos o servidores donde se encuentren alojados los datos de la aplicación.
 - Debe ser capaz de optimizar las transaciones que se realizaran en la base de datos
 
 **Características que una persona debe cumplir para cubrir el puesto de administrador de bases de datos**
 - Responsable con el cargo que esta desempeñando
 - Consiente del "poder" de tener acceso a  informacion delicada de la empresa o los usuario que esten utilizando la aplicación 
+---
 
 ## Importancia de las bases de datos en la toma de deciciones
 ### Alta gerencia
@@ -42,8 +42,10 @@ Encargado del modelo empresarial, quien desarrolla planes a largo plazo, y es pu
 ### Administrador de bases de datos
 Encargado de la información y DBMS, llevar a cabo el modelado de datos y el diseño lógico de bases de datos, evaluacion de DBMS, crear sentencias de seguridad, integridad y procesamiento de reglas.
 
-#### Actividad 2 - 2/Feb
-## Conocimientos tecnicos
+---
+
+### Actividad 2 (2/Feb)
+#### Conocimientos tecnicos
 - Procedimientos
 - Triggers
 - Vistas
@@ -51,25 +53,71 @@ Encargado de la información y DBMS, llevar a cabo el modelado de datos y el dis
 - Consultas 'Avanzadas'
 
 Mejoras con el rendimiento con base a la construcción de código más generalizado y reutilizable.
+
 - Concurencia
 - Persistencia
+
 Gestión preventiva a la información ante posibles errores
 
 - Usuarios 
 - Permisos
 - Roles 
 - Restricciones
+
 Manejo de las acciones a realizar en la base de datos
 
 - Gestion de recursos
 - Patrones de diseño
 - Patrones de seguridad
 - Aislamiento
+
 Asegurar su correcto funcionamiento a lo largo de tiempo
 
+### Actividad 3 (7/Feb)
+#### DBA según Oracle, Microsoft e IBM
+##### Oracle
+Habilidades
+- SQL, Ruby On Rails, XML, C#, Python
+- Modelado y diseño de batos
+- Seguridad y recuperacion de datos
 
+Responsabilidades
+- Tipos de usuarios de Oracle
+- Seguridad y privilegios del administrador de la base de datos
+	El acceso a la cuenta de un administrador de base de datos debe estar estrictamente controlado.
+	- La cuenta del sistema operativo del administrador de la base de datos
+	- Nombres de usuario del administrador de la base de datos
+	- El rol del administrador de bases de datos
+- Autenticación del administrador de la base de datos
+	- Seleción de métodos de autenticación
+	- Uso de la autenticación del sistema operativo
+	- OSOPER y OSDBA
+	- Uso de un archivo de contraseña de autenticación
+- Administración de archivos de contraseñas
+	Puede crear un archivo de contraseña utilizando la utilidad de creación de archivos de contraseña, ORAPWD o, para sistemas operativos seleccionados, puede crear este archivo como parte de su instalación estándar.
+	- Uso de ORAPWD
+	- Configuración de REMOTE_LOGIN_ PASSWORDFILE
+	- Adición de usuarios a un archivo de contraseñas
+	- Conexión con privilegios de administrador
+	- Mantenimiento de un archivo de contraseñas
+- Utilidades del administrador de la base de datos
+- Prioridades iniciales de un administrador de base de datos
+- Identificación de versiones de software de Oracle
 
+### Actividad 4 (8/Feb)
+1. Administradores de sistemas.
+	-  
+2. Arquitectos de bases de datos.
+3. Analistas de bases de datos.
+4. Modeladores de datos.
+5. Administradores de bases de datos de aplicaciones.
+6. Administradores de bases de datos orientados a tareas.
+7. Analistas de rendimiento.
+8. Administradores de almacenes de datos.
+9. Administradores de bases de datos en la nube.
+---
 
-# 1.2. Análisis de los manejadores de bases de datos  
+# 1.2. Análisis de los manejadores de bases de datos 
+
 # 1.3. Consideraciones para elegir un SGBD  
 # 1.4. Nuevas tecnologías y aplicaciones de los sistemas de bases de datos

@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "721521b97f1fad6d",
+            "id": "ce170b0a634ceb61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "file": "Organizacion del trabajo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4efc3f39e6a1fada",
+            "id": "dfd411e70dfde6df",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tareas globales.md"
+                "file": "2-Software/1-Análisis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -122,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md"
+                "file": "Organizacion del trabajo.md"
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "file": "Organizacion del trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +151,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
+                "file": "Organizacion del trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,17 +178,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "721521b97f1fad6d",
+  "active": "ce170b0a634ceb61",
   "lastOpenFiles": [
-    "Tareas globales.md",
-    "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
-    "4-Datos/1-Perspectiva de la administración de base de datos.md",
     "2-Software/1-Análisis.md",
+    "Organizacion del trabajo.md",
+    "README.md",
+    "Tareas globales.md",
+    "4-Datos/1-Perspectiva de la administración de base de datos.md",
+    "5-Redes/1-Introducción a redes de datos.md",
+    "4-Datos/Datos generales.md",
+    "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
     "4-Datos/2-Arquitectura e instalación del SGBD.md",
-    "2-Software/4-Pruebas e Implantación.md",
-    "3-Interfaz/Datos generales.md",
-    "3-Interfaz/Untitled.md",
-    "2-Software/Datos generales.md",
-    "2-Software/3-Desarrollo.md"
+    "2-Software/4-Pruebas e Implantación.md"
   ]
 }

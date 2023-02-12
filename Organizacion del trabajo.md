@@ -1,0 +1,5 @@
+- [x] Evaluar el ERS de GBSCleaners
+- [x] Diapositivos y preguntas del pelon
+- [ ] Buscar la informacion de base de datos
+- [x] Buscar ideas para el proyecto de interfaces
+- [ ] Investigar las operaciones de conjuntos
