@@ -7,6 +7,11 @@ Metodologia de desarrollo: Orientada a objetos
 4. Diagrama de casos de uso
 5. Modelo de interfaces
 
+| Nombre del Integrante | Rol/es   | Conocimiento |
+| --------------------- | -------- | ------------ |
+| Fulano de tal         | sysadmin | git sql java             |
+
+
 
 ## 1.1.1 Norma IEEE830  
 ## 1.1.2 Trazabilidad de requisitos  

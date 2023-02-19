@@ -1,6 +1,4 @@
-# Indice de actividades del portafolio
-- [Actividad 1](####Actividad-1)
-# 1.1. Administrador de Base de Datos (DBA)
+# Administrador de Base de Datos (DBA)
 **Administracion:** Ciencia que estudia las organizaciones a traves de la planeacion, organizacion, direccion y control; de manera constante en la busqueda del mejor desempeño posible.
 
 **Caracteristicas:**
@@ -74,6 +72,8 @@ Manejo de las acciones a realizar en la base de datos
 Asegurar su correcto funcionamiento a lo largo de tiempo
 
 ### Actividad 3 (7/Feb)
+**Link a la actividad completa:** [¿Qué es un DBA?](https://docs.google.com/document/d/1k_q4be4R8f_pqAjM1cIpL8B7X6pb2IvKUP29A2mJMfY/edit?usp=sharing)
+
 #### DBA según Oracle, Microsoft e IBM
 ##### Oracle
 Habilidades
@@ -115,9 +115,10 @@ Responsabilidades
 7. Analistas de rendimiento.
 8. Administradores de almacenes de datos.
 9. Administradores de bases de datos en la nube.
----
 
-# 1.2. Análisis de los manejadores de bases de datos 
+### Actividad 5 (9/Feb)
+**Link a la actividad completa:** [Comparativa de SGBD mas populares para empresas](https://docs.google.com/spreadsheets/d/1CHAMS-bi2Jq_5ncQTeRDxziWGQpICOAukIrXjahiaMs/edit?usp=sharing)
 
-# 1.3. Consideraciones para elegir un SGBD  
-# 1.4. Nuevas tecnologías y aplicaciones de los sistemas de bases de datos
+
+### Actividad 6 (13/Feb)
+**Link a la actividad completa:** [Investigación de SGDB SQL y NoSQL](https://docs.google.com/document/d/1ZPUzfhnUhfGIwcES8_LwqIoTPVshbio1b4Lv_-ILtEY/edit?usp=sharing)

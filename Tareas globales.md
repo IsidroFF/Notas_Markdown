@@ -6,25 +6,25 @@ kanban-plugin: basic
 
 ## AUTOMATAS
 
-- [ ] - [ ] Codigo enigma<br>- [ ] La llegada<br>- [ ] Operaciones de conjuntos
-- [ ] - [ ] Investigacion de las operaciones de conjuntos
+- [ ] - [ ] Codigo enigma<br>- [ ] La llegada<br>- [x] Operaciones de conjuntos
 
 
 ## SOFTWARE
 
-- [ ] - [x] Terminar de analizar del ERS<br>- [ ] Investigar como funciona ELECTRON, para aplicaciones de escritorio con JS, HTML y CSS
 - [ ] - [ ] Descarhar e instalar java 1.8
 - [ ] - [ ] Terminar la revicion de los documentos con la retroalimentacion de la maestra
+- [ ] - [ ] Base de datos en la nube con clever cloud<br>- [ ] Realizar el archivo de estudio de factibilidad <br>- [ ] Analisis de costos
 
 
 ## INTERFAZ
 
-- [ ] - [ ] Buscar ideas para el proyecto
-- [ ] - [ ] Revisar las tareas del EVE<br>- [ ] Resumen de la pagina 9-13
+- [ ] - [x] Estudiar la presentacion
+- [ ] - [ ] Programa del EVE
 
 
 ## DATOS
 
+- [ ] - [x] Producto de aprendizaje<br>- [ ] Portafolio de evidencias
 
 
 ## REDES
@@ -33,6 +33,7 @@ kanban-plugin: basic
 
 ## OPERATIVOS
 
+- [ ] - [x] Hacer las diapos para la presentacion
 
 
 

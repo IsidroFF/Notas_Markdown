@@ -13,25 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizacion del trabajo.md",
+                "file": "4-Datos/1-Perspectiva de la administración de base de datos.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "dfd411e70dfde6df",
+            "id": "f5dfbb04ebe24c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2-Software/1-Análisis.md",
-                "mode": "source",
-                "source": false
+                "file": "Tareas globales.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizacion del trabajo.md"
+                "file": "Tareas globales.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizacion del trabajo.md",
+                "file": "Tareas globales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,14 +151,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizacion del trabajo.md",
+                "file": "Tareas globales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,17 +178,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ce170b0a634ceb61",
+  "active": "f5dfbb04ebe24c9b",
   "lastOpenFiles": [
-    "2-Software/1-Análisis.md",
-    "Organizacion del trabajo.md",
-    "README.md",
-    "Tareas globales.md",
     "4-Datos/1-Perspectiva de la administración de base de datos.md",
-    "5-Redes/1-Introducción a redes de datos.md",
     "4-Datos/Datos generales.md",
-    "1-Automatas/1-Introducción a la Teoría de Lenguajes Formales.md",
-    "4-Datos/2-Arquitectura e instalación del SGBD.md",
-    "2-Software/4-Pruebas e Implantación.md"
+    "actividad-1.md",
+    "5-Redes/1-Introducción a redes de datos.md",
+    "4-Datos/actividad-1.md",
+    "Tareas globales.md",
+    "4-Datos/().md",
+    "2-Software/Datos generales.md",
+    "2-Software/1-Análisis.md",
+    "Organizacion del trabajo.md"
   ]
 }
