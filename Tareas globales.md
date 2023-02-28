@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## AUTOMATAS
 
 - [ ] - [ ] Codigo enigma<br>- [ ] La llegada<br>- [x] Operaciones de conjuntos
+- [ ] - [ ] Analizar la informacion del EVE
 
 
 ## SOFTWARE
@@ -18,22 +19,21 @@ kanban-plugin: basic
 
 ## INTERFAZ
 
-- [ ] - [x] Estudiar la presentacion
-- [ ] - [ ] Programa del EVE
 
 
 ## DATOS
 
-- [ ] - [x] Producto de aprendizaje<br>- [ ] Portafolio de evidencias
 
 
 ## REDES
 
+- [ ] - [ ] Maqueta
 
 
 ## OPERATIVOS
 
 - [ ] - [x] Hacer las diapos para la presentacion
+- [ ] - [ ] Actividad 1<br>- [ ] Actividad 2<br>- [ ] Actividad 3<br>- [ ] Actividad 4
 
 
 

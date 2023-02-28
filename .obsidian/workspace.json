@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce170b0a634ceb61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Datos/1-Perspectiva de la administración de base de datos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f5dfbb04ebe24c9b",
             "type": "leaf",
             "state": {
@@ -29,9 +16,20 @@
                 "file": "Tareas globales.md"
               }
             }
+          },
+          {
+            "id": "2bb7eb46243deef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Datos/2-Arquitectura e instalación del SGBD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7d0bbf5f8ad27a42",
@@ -180,15 +179,16 @@
   },
   "active": "f5dfbb04ebe24c9b",
   "lastOpenFiles": [
+    "4-Datos/2-Arquitectura e instalación del SGBD.md",
+    "Tareas globales.md",
     "4-Datos/1-Perspectiva de la administración de base de datos.md",
+    "5-Redes/1-Introducción a redes de datos.md",
+    "5-Redes/2-Normas y estándares de redes de datos.md",
+    "4-Datos/actividad-1.md",
+    "4-Datos/().md",
     "4-Datos/Datos generales.md",
     "actividad-1.md",
-    "5-Redes/1-Introducción a redes de datos.md",
-    "4-Datos/actividad-1.md",
-    "Tareas globales.md",
-    "4-Datos/().md",
     "2-Software/Datos generales.md",
-    "2-Software/1-Análisis.md",
-    "Organizacion del trabajo.md"
+    "2-Software/1-Análisis.md"
   ]
 }

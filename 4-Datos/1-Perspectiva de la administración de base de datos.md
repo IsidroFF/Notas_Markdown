@@ -106,7 +106,6 @@ Responsabilidades
 
 ### Actividad 4 (8/Feb)
 1. Administradores de sistemas.
-	-  
 2. Arquitectos de bases de datos.
 3. Analistas de bases de datos.
 4. Modeladores de datos.
