@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5dfbb04ebe24c9b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tareas globales.md"
-              }
-            }
-          },
-          {
             "id": "2bb7eb46243deef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Datos/2-Arquitectura e instalación del SGBD.md",
+                "file": "4-Datos/3-Configuración y administración del espacioen disco.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7d0bbf5f8ad27a42",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas globales.md"
+                "file": "4-Datos/3-Configuración y administración del espacioen disco.md"
               }
             }
           },
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas globales.md",
+                "file": "4-Datos/3-Configuración y administración del espacioen disco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas globales.md",
+                "file": "4-Datos/3-Configuración y administración del espacioen disco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,18 +166,36 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f5dfbb04ebe24c9b",
+  "active": "2bb7eb46243deef5",
   "lastOpenFiles": [
-    "4-Datos/2-Arquitectura e instalación del SGBD.md",
-    "Tareas globales.md",
     "4-Datos/1-Perspectiva de la administración de base de datos.md",
-    "5-Redes/1-Introducción a redes de datos.md",
+    "4-Datos/2-Arquitectura e instalación del SGBD.md",
+    "Calificaiones.md",
+    "Organizacion del trabajo.md",
+    "README.md",
+    "Tareas globales.md",
+    "4-Datos/3-Configuración y administración del espacioen disco.md",
+    "4-Datos/Imagenes",
+    "4-Datos/Imagenes/chown.png",
+    "4-Datos/Imagenes/2023-03-18_14-50.png",
+    "4-Datos/Imagenes/alfin.png",
+    "actividad-1.md",
+    "4-Datos/Imagenes/ENTORNO.png",
     "5-Redes/2-Normas y estándares de redes de datos.md",
+    "4-Datos/Imagenes/Pasted image 20230319175113.png",
+    "4-Datos/Imagenes/Pasted image 20230319174509.png",
+    "4-Datos/Imagenes/Pasted image 20230319174501.png",
+    "4-Datos/Imagenes/Pasted image 20230319173913.png",
+    "4-Datos/Imagenes/Pasted image 20230319173737.png",
+    "4-Datos/Imagenes/Pasted image 20230319171940.png",
+    "6-Operativos/2-Sistemas Operativos propietarios para servidores.md",
+    "2-Software/2-Diseño.md",
+    "2-Software/1-Análisis.md",
+    "3-Interfaz/2-Programación básica.md",
+    "5-Redes/1-Introducción a redes de datos.md",
     "4-Datos/actividad-1.md",
     "4-Datos/().md",
     "4-Datos/Datos generales.md",
-    "actividad-1.md",
-    "2-Software/Datos generales.md",
-    "2-Software/1-Análisis.md"
+    "2-Software/Datos generales.md"
   ]
 }

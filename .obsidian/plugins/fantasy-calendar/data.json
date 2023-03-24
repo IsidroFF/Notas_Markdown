@@ -195,8 +195,8 @@
       },
       "current": {
         "year": 2023,
-        "month": 2,
-        "day": 9
+        "month": 3,
+        "day": 12
       },
       "events": [
         {
@@ -442,7 +442,7 @@
           "name": "Tarea-Operativos"
         }
       ],
-      "date": 1677618975933,
+      "date": 1679692717427,
       "displayWeeks": false
     }
   ],

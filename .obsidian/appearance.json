@@ -3,8 +3,8 @@
   "textFontFamily": "JetBrainsMonoNL Nerd Font",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
-  "cssTheme": "80s Neon",
+  "cssTheme": "Aura",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 25,
   "baseFontSizeAction": true
 }
